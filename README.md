@@ -1,5 +1,3 @@
-Here is the English version of the README.md file for your repository.
-
 Internet Speed Test Tool
 A simple command-line utility written in Batch to quickly test your internet connection speed by downloading test files of various sizes.
 
